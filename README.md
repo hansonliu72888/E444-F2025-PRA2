@@ -15,4 +15,5 @@ https://github.com/miguelgrinberg/flasky
 
 ![](screenshots/ECE444_PRA2_4.png)
 
-![Docker](screenshots/ECE444_PRA2_5.png)
+Docker
+![](screenshots/ECE444_PRA2_5.png)
