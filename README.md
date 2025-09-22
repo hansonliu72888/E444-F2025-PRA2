@@ -17,5 +17,5 @@ Activity 1.4
 
 ![](screenshots/ECE444_PRA2_4.png)
 
-Activity 2.1
+Activity 2.3/2.4
 ![](screenshots/ECE444_PRA2_5.png)
